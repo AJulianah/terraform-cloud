@@ -1,3 +1,4 @@
 output "ci" {
-  default = "CICD"
+  description = "Continuous Integration with terraform"
+  value = "CICD"
 }
